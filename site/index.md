@@ -1,6 +1,6 @@
 ---
 layout: "layouts/home.njk"
-title: Simple Blog
+title: Chris Higgins
 postsHeading: Latest posts
 allPostsText: See all posts
 socialImage: ""
