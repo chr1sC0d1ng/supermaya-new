@@ -8,6 +8,8 @@ socialImage: ""
 
 An 11ty starter kit designed to help you add rich features to a site without a complicated build process.
 
+<!--- Comments are Fun --->
+
 <ul>
     <li>
         <a href="https://heroku.com/deploy?template=https://github.com/MadeByMike/keystone-jamstack-plus">Deploy Supermaya + Keystone</a> <small>(add user-generated content)</small>
