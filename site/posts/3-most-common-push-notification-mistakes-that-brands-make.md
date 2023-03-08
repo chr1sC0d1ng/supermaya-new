@@ -1,6 +1,8 @@
 ---
 title: "3 most common Push Notification mistakes that brands make"
 date: "2022-06-22"
+description: "many brands struggle to unlock the full potential of their notifications, failing to develop a comprehensive strategy for the channel that includes planning, creative and technical approaches."
+
 categories: 
   - "advertising"
 tags: 
