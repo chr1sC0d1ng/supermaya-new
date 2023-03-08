@@ -1,6 +1,8 @@
 ---
 title: "Which Skills Do You Need for LinkedIn's Emerging Job List? An Analysis."
 date: "2020-02-19"
+description: "I take a look through the data in the Linkedin report to find some themes for emerging skills around the world"
+
 categories: 
   - "management"
 tags: 
