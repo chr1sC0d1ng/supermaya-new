@@ -1,12 +1,12 @@
 module.exports = {
   name: "Chris Higgins",
   shortDesc:
-    "An 11ty starter kit designed to help you add rich features to a site without a complicated build process.",
+    "Perspectives on B2B marketing.",
   url: "",
-  authorEmail: "mike@madebymike.com.au",
+  authorEmail: "",
   authorHandle: "@MikeRiethmuller",
-  authorName: "Mike",
-  postsPerPage: 8,
+  authorName: "Chris",
+  postsPerPage: 10,
   socialImage: "/img/social.jpg",
   theme: {
     primary: {
