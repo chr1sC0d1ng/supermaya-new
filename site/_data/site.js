@@ -4,7 +4,7 @@ module.exports = {
     "Perspectives on B2B marketing.",
   url: "",
   authorEmail: "",
-  authorHandle: "@MikeRiethmuller",
+  authorHandle: "@chrismhiggins",
   authorName: "Chris",
   postsPerPage: 10,
   socialImage: "/img/social.jpg",
