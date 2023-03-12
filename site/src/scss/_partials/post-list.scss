@@ -13,6 +13,8 @@
   align-items: flex-start;
   justify-content: center;
 }
+/* trying to remove underline */
+.l-post-intro a {text-decoration: none}
 
 .l-post-intro > * + * {
   margin-top: 1rem;
