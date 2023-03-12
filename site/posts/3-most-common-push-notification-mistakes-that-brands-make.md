@@ -47,7 +47,7 @@ For example, Netcore Cloud’s SmartPushutilises multiple gateways in parallel a
 
 A common mistake made by brands is to send push notifications and then report on the outcomes, rather than set goals in advance. Sending these notifications just because you can, contributes to all the above mistakes.
 
-All communication channels, including notifications, should stem from business objectives.
+All communication channels, including notifications objectives.
 
 All communication channels, including notifications, should stem from business objectives. For example are you trying to increase sales, onboard more customers, reduce churn, promote a new feature or action? What are your current benchmarks? What are you aiming to achieve? What is the role or contribution expected from each of your channels?
 
