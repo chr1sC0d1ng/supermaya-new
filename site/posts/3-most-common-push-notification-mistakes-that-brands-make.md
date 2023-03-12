@@ -17,7 +17,7 @@ But many brands struggle to unlock the full potential of their notifications, fa
 
 The three most common mistakes that brands make with push notifications are sending too many notifications, not optimising the delivery, and not defining goals in advance.
 
-## **Sending too many notifications**
+## Sending too many notifications
 
 This is by far the biggest mistake – especially sending too many notifications to people who don’t want to get lots of notifications.
 
@@ -31,7 +31,7 @@ Relevancy is a key concept here, and comes from understanding your customer. If 
 
 A best practice is also to allow opt in/out from different types of notifications, so customers can help with their own segmentation.
 
-## **Not optimising push notification delivery**
+## Not optimising push notification delivery
 
 Many brands struggle to get good delivery of their push notification. The solutions include more optins, improving app engagement, enhanced delivery systems.
 
@@ -47,15 +47,9 @@ For example, Netcore Cloud’s SmartPushutilises multiple gateways in parallel a
 
 A common mistake made by brands is to send push notifications and then report on the outcomes, rather than set goals in advance. Sending these notifications just because you can, contributes to all the above mistakes.
 
-All communication channels, including notifications objectives.
-
 All communication channels, including notifications, should stem from business objectives. For example are you trying to increase sales, onboard more customers, reduce churn, promote a new feature or action? What are your current benchmarks? What are you aiming to achieve? What is the role or contribution expected from each of your channels?
 
 Next, how will you measure the results? What is your attribution modelling?
-
-Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling?
-
-
 
 Careful planning of goals and metrics allows you better track the influence of push notifications. Many users may see a push notification and dismiss it, and later take action directly in the app, or after a reminder on another channel like email or SMS. By planning segmented campaigns, you can measure the impact of your notifications beyond clicks.
 
