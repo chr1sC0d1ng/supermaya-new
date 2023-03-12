@@ -51,6 +51,10 @@ All communication channels, including notifications, should stem from business o
 
 Next, how will you measure the results? What is your attribution modelling?
 
+Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling? Next, how will you measure the results? What is your attribution modelling?
+
+
+
 Careful planning of goals and metrics allows you better track the influence of push notifications. Many users may see a push notification and dismiss it, and later take action directly in the app, or after a reminder on another channel like email or SMS. By planning segmented campaigns, you can measure the impact of your notifications beyond clicks.
 
 Setting goals also forces you to question more deeply the variance in outcomes. Let’s say you have a flash sale and set targets for both revenue amount, and % of total sale revenue that should come via push notifications. If your target was 25% but the result was 15%, what happened? Which other channel over-achieved and why?
