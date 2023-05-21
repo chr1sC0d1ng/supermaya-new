@@ -1,7 +1,7 @@
 ---
 title: "Telling powerful and compelling business stories"
 date: "2023-05-21"
-description: "Here is an example of excelling business storytelling from an event i recently attended"
+description: "A great example of storytelling from a D2C founder"
 
 tags: 
   - "brand"
