@@ -1,7 +1,7 @@
 ---
 title: "Why we love ChatGPT: No question is stupid"
 date: "2023-08-13"
-description: "Being able to ask questions without fear of judgement is powerful. So what happens to answer sites that used human generated content"
+description: "Being able to ask questions without fear of judgement is powerful. So what happens to answer sites that used human generated content?"
 tags: 
   - "AI"
   - "LLM"
