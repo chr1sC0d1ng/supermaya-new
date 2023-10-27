@@ -1,6 +1,6 @@
 ---
 title: "Exploring Net Revenue Retention (NRR)"
-date: "2023--19"
+date: "2023-10-19"
 description: "Some ideas on how to test different variants of NRR to uncover SaaS insights"
 tags: 
   - "SaaS"
