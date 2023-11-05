@@ -7,11 +7,11 @@ tags:
   - "metrics"
 ---
 
-Net Revenue Retention (NRR) is one of the most crucial metrics for SaaS organizations. Why?
+  Net Revenue Retention (NRR) is one of the most crucial metrics for SaaS organizations. Why?
 
-It acts as an indicator of customer satisfaction and Product-Market Fit (PMF). While acquiring a plethora of new logos is commendable, it's only meaningful if these clients stay and deepen their relationship with your company. Notably, retaining and expanding revenue from existing customers is more cost-effective than securing new ones, emphasizing the need to monitor retention performance diligently.
+  It acts as an indicator of customer satisfaction and Product-Market Fit (PMF). While acquiring a plethora of new logos is commendable, it's only meaningful if these clients stay and deepen their relationship with your company. Notably, retaining and expanding revenue from existing customers is more cost-effective than securing new ones, emphasizing the need to monitor retention performance diligently.
 
-Below are some strategies to experiment with this metric for deeper insights:
+  Below are some strategies to experiment with this metric for deeper insights:
 
 * The standard NRR formula is: (Starting revenue + expansion - churn - contraction) ÷ starting revenue. Essentially, it measures how much the customers you had at the beginning of a period are paying you by its end.
 * Which time frame should you consider? Monthly and yearly evaluations are typical, depending on your business model. However, it's beneficial to explore other periods, such as quarterly or bi-annually. This can help ascertain if your expansions consistently counteract churn.
